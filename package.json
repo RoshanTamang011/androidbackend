@@ -1,0 +1,40 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "An ecommerce site for electronic gadgets",
+  "main": "app.js",
+  "dependencies": {
+    "aws-sdk": "^2.866.0",
+    "bcryptjs": "^2.4.3",
+    "colors": "^1.4.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.1.4",
+    "express-fileupload": "^1.2.1",
+    "express-validator": "^6.9.2",
+    "jest": "^26.6.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.12",
+    "multer": "^1.4.2",
+    "multer-s3": "^2.9.0",
+    "shortid": "^2.2.16",
+    "slugify": "^1.4.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softwarica-github/t2---backend-api-DipeshLama.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/softwarica-github/t2---backend-api-DipeshLama/issues"
+  },
+  "homepage": "https://github.com/softwarica-github/t2---backend-api-DipeshLama#readme"
+}
